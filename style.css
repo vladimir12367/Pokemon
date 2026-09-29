@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color:#FFE040;
+}
+
+header img{
+    width:100px;
+    height:100px;
+}
+
+header{
+    background-color:#FF4940;
+    padding:10px;
+    margin:-8px -8px 0 -8px;
+}
+
+header p{
+    text-align:center;
+    font-family:Hanalei Fill;
+    color:white;
+    font-size:40px;
+    margin-top:-70px;
+}
+
+header a{
+    margin-left:650px;
+    text-decoration:none;
+    color:white;
+    font-size:25px;
+}
+
+h1{
+    margin-left:30px;
+}
+
+main img{
+    width:400px;
+    height:350px;
+    margin:15px;
+    border:black 5px dashed;
+}
+
+footer{
+    background-color:#6D48D7;
+    padding:5px;
+    margin:0 -8px -8px -8px;
+}
+
+footer p{
+    background-color:#D9D9D9;
+    margin:10px;
+    padding:10px;
+}
+
+ul{
+    list-style:url("https://static-algoritmika-org.ngcdn.ru/uploads/student/70468017/6abbd9dc1f1d5.png");
